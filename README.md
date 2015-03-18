@@ -1,2 +1,4 @@
 # MachineLearning
-Practical Machine Learning Assignmnet
+Practical Machine Learning Assignment
+
+The PDF will be easier to read.
